@@ -14,6 +14,7 @@ A web application that allows users to search for upcoming events by artist usin
    - Get a Google Maps API key from the [Google Cloud Console](https://console.cloud.google.com/).
 
 2. **Configure API Keys**:
+   - Copy files "config.js" and "index.html" to local directory
    - Replace the API_KEYS in "config.js" with your API keys
   
-3. **Open index.html in Web Browser**
+4. **Open index.html in Web Browser**
