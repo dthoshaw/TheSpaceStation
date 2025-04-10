@@ -1,5 +1,4 @@
 # TheSpaceStation
-# Event Locator
 
 A web application that allows users to search for upcoming events by artist using the Ticketmaster API and display them on a Google Map.
 
