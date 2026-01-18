@@ -21,7 +21,7 @@ A web application that allows users to search for upcoming events by artist usin
 
 ![Tickets](images/Map3.PNG)
 - Select any radar circle to list details for that event. Click on "Tickets" to link to the website Ticketmaster has listed to buy tickets (Ticketmaster itself or specific venue websites (Red Rocks, Lost Lands, etc))
-- 
+
 ## Setup 
 1. **Obtain API Keys**:
    - Get a Ticketmaster API key from the [Ticketmaster Developer Portal](https://developer.ticketmaster.com/).
